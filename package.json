@@ -1,5 +1,5 @@
 {
-  "name": "react-native-countdown-component",
+  "name": "react-native-countdown-component-fix-unmount",
   "version": "2.7.1",
   "description": "React Native CountDown Component",
   "repository": {

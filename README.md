@@ -1,3 +1,5 @@
+This is a fork of react-native-countdown-component
+
 # react-native-countdown
 React Native CountDown
 
